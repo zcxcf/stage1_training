@@ -2,7 +2,7 @@ import wandb
 
 
 def set_wandb(args):
-    wandb.login(key='73283fc4b55614adc5934a0812ba6622a1aa5301')
+    wandb.login(key='')
 
     wandb.init(
         project="nips_2025",
